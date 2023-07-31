@@ -36,7 +36,7 @@ function App() {
   return (
     <>
     <div className="container">
-      <h1>Album de fotos</h1>
+      <h1>ÀLBUM DE FOTOS</h1>
     
     {/* <h1>{`Contador: ${count}`}</h1>
     <button onClick={incrementar}>+10</button> */}
